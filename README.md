@@ -5,4 +5,4 @@
   - Node
 - HTML
 - CSS
-  -SASS
+  - SASS
