@@ -1,5 +1,8 @@
 [LinkedIn](bit.ly/3zCZQoU)
 
-- Javascript developer 
+- Javascript 
   - React
   - Node
+- HTML
+- CSS
+  -SASS
