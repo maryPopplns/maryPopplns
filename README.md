@@ -8,4 +8,4 @@
 - CSS
   - SASS
 
-[![Spencer Knight's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryPopplns?hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Spencer Knight's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryPopplns?hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
