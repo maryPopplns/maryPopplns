@@ -8,4 +8,4 @@
 - CSS
   - SASS
 
-### Current Project : [Blog API](https://github.com/maryPopplns/blog_client)
+### Current Project : [Blog Client](https://github.com/maryPopplns/blog_client)
