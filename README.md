@@ -8,4 +8,4 @@
 - CSS
   - SASS
 
-### Current Project : [PokeInventory](https://github.com/maryPopplns/blog_client)
+### Current Project : [Blog API](https://github.com/maryPopplns/blog_client)
