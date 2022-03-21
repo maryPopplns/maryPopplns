@@ -2,4 +2,4 @@
 
 Web Developer
 
-### Current Project : [Personal Portffolio](https://github.com/maryPopplns/portfolio_client)
+### Current Project : [Personal Portfolio](https://github.com/maryPopplns/portfolio_client)
