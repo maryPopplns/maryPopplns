@@ -1,4 +1,4 @@
 [LinkedIn](bit.ly/3zCZQoU)
 
-### <ins> Current Projects </ins> 
-- [Personal Portfolio Client](https://github.com/maryPopplns/portfolio_client)
+### <ins> Current Project </ins> 
+- [crypto app](https://github.com/maryPopplns/crypto_app)
